@@ -1,3 +1,5 @@
+Codes adapted from : https://github.com/willowsierra/recvis24_a3 
+
 ## Object recognition and computer vision 2024/2025
 
 ### Assignment 3: Sketch image classification
